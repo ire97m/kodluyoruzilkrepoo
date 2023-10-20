@@ -1,0 +1,2 @@
+# kodluyoruzilkrepoo
+Kodluyoruz ilk repo
